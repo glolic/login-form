@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<popisUser>
+	<user>
+		<username>user</username>
+		<password>123</password>
+	</user>
+	<user>
+		<username>xml</username>
+		<password>xml</password>
+	</user>
+	<user>
+		<username>Marko</username>
+		<password>abcdef</password>
+	</user>
+	<user>
+		<username>pwa</username>
+		<password>pwa</password>
+	</user>
+</popisUser>
